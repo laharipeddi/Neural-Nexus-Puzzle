@@ -40,7 +40,7 @@ Heuristic functions supported:
 ---
 
 ## How to Run
--pip install numpy
--RUN python neuralpuzzle.py
+- pip install numpy
+- RUN python neuralpuzzle.py
 
 
